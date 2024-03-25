@@ -3,5 +3,6 @@
     --cor-contorno: #FF0000;
     --cor-linha-abaixo-dos-botoes: #8E1EFF;
     --cor-video: #6FFF57;
-    --botao-inativo: rgba(58, 55, 94, 0.5);
+    --background-image: url(Fundo.jpg);
+        background-attachment:scroll;
 }
